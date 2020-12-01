@@ -5929,7 +5929,7 @@ footer {
 
 footer .container {
   background: url(../img/logo.svg) no-repeat right center;
-  background-size: auto 100%;
+  background-size: 50% 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 0 auto;
