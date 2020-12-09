@@ -2,10 +2,33 @@
     overflow: hidden;
 }
 
+
+
+
+
+
+
+
 .fancybox-active {
     height: auto;
 }
-
+.bouton {
+  background-color: #fe1b00;
+  border: none;
+  color: white;
+  padding: 5px;
+  margin-left: 300px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  cursor: pointer;
+  width:500px;
+}
+.bouton:hover {
+  background-color: #ff8c00;
+  color: white;
+}
 .fancybox-is-hidden {
     left: -9999px;
     margin: 0;
@@ -5928,7 +5951,7 @@ footer {
 }
 
 footer .container {
-  background: url(../img/logo.svg) no-repeat right center;
+  background: url(../img/logos.png) no-repeat right center;
   background-size: 50% 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
